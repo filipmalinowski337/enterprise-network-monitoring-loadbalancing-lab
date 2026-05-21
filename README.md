@@ -164,7 +164,7 @@ The Dude was used for real-time SNMP-based infrastructure monitoring, service av
 
 Full project documentation is available in the PDF file:
 
-- `Enterprise_Network_Monitoring_and_Load_Balancing_Lab_Filip_Malinowski.pdf`
+[Enterprise Network Monitoring and Load Balancing Lab (PDF)](./Enterprise_Network_Monitoring_and_Load_Balancing_Lab_Filip_Malinowski.pdf)
 
 ---
 
